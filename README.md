@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#I'm David and I'm a student of Computer Systems Engineering 💻 at the Technological University of Panama.
+### I'm David and I'm a student of Computer Systems Engineering 💻 at the Technological University of Panama.
 
-#I am currently studying and updating my repositories. 🌾
+### I am currently studying and updating my repositories. 🌾
 
 
 
