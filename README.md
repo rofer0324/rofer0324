@@ -22,7 +22,7 @@ Hi there 👋<br><br>I'm David and I'm a student of Computer Systems Engineering
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<> espacio entre version y version.
+   <!-- espacio entre version y version. -->
 
 <!--
 ### Hi there 👋
