@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a student of Computer Systems Engineering 💻 at the Technological University of Panama. I am currently studying and updating my repositories. 🌾
 
 * 🧠  I'm learning Data Analysis and Machine Learning
-* ⚡  I'm a proactive person and I'm working on updating my repositories
+* ⚡  I'm a proactive person
 
 ### Skills
 
