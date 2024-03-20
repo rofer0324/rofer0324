@@ -1,10 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Rodríguez
 =============================================================================================================================
 
 I'm a student of Computer Systems Engineering 💻 at the Technological University of Panama. I am currently studying and updating my repositories. 🌾
 
-* 🧠  I'm learning Data Analysis and Machine Learning
-* ⚡  I'm a proactive person
+* 🌍  I'm based in Panamá
+* ✉️  You can contact me at [davidrodfer0324@gmail.com](mailto:davidrodfer0324@gmail.com)
+* 🧠  I'm learning Data Analysis and Machine Learning
+* 🤝  I'm open to collaborating on Projects of Machine Learning
+* ⚡  I'm a proactive person
 
 ### Skills
 
