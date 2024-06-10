@@ -5,7 +5,7 @@ I'm a student of Computer Systems Engineering 💻 at the Technological Universi
 
 * 🌍  I'm based in Panamá
 * ✉️  You can contact me at [davidrodfer0324@gmail.com](mailto:davidrodfer0324@gmail.com)
-* 🧠  I'm learning Data Analysis and Machine Learning
+* 🧠  I'm learning Deep learning
 * 🤝  I'm open to collaborating on Projects of Machine Learning
 * ⚡  I'm a proactive person
 
