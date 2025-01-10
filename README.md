@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David
 =============================================================================================================================
 
-I’m a final year student at the Technological University of Panama.
+I’m a senior year student at the Technological University of Panama.
 -------------------------------------------------------------------
 
 * ✉️  You can contact me at [davidrodfer0324@gmail.com](mailto:davidrodfer0324@gmail.com)
-* 🧠 I'm learning Machine learning systems design, Deep Learning and Research
-* 📚 I'm currently reading Nexus: A Brief History of Information Networks from the Stone Age to Artificial Intelligence
-* 🤝 I'm open to collaborating on Projects of Machine Learning, Computer Vision, Robotics
+* 🧠 I'm learning Designing Machine Learning Systems, Deep Learning.
+* 💡 I'm working on articles of investigation.
+* 📚 I'm currently reading Nexus: A Brief History of Information Networks from the Stone Age to Artificial Intelligence.
+* 🤝 I'm open to collaborating on Projects of Machine Learning, Computer Vision, Robotics.
 * ⚡ I'm currently working on my thesis in the field of Computing and Systems Simulation, with emphasis on Machine Learning and Artificial Vision techniques.
 
 ### Skills
