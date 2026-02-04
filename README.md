@@ -35,11 +35,6 @@ I’m a senior year student at the Technological University of Panama.
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
     </picture> 
   </a>
-  <a href="https://orcid.org/0000-0002-7167-944X" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://orcid.filecamp.com/static/thumbs/a4DLgrnBMK21neOt-small.png" width="32" height="32" /> 
-    </picture> 
-  </a>
 </p>
 
 
