@@ -36,8 +36,3 @@ I’m a senior year student at the Technological University of Panama.
     </picture> 
   </a>
 </p>
-
-
-### Badges
-
-<a href="https://github.com/rofer0324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofer0324&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
