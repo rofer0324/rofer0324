@@ -5,11 +5,10 @@ I’m a senior year student at the Technological University of Panama.
 -------------------------------------------------------------------
 
 * ✉️  You can contact me at [davidrodfer0324@gmail.com](mailto:davidrodfer0324@gmail.com)
-* 🧠 I'm learning Designing Machine Learning Systems, Deep Learning.
-* 💡 I'm working on articles of investigation.
-* 📚 I'm currently reading Nexus: A Brief History of Information Networks from the Stone Age to Artificial Intelligence.
-* 🤝 I'm open to collaborating on Projects of Machine Learning, Computer Vision, Robotics.
-* ⚡ I'm currently working on my thesis in the field of Computing and Systems Simulation, with emphasis on Machine Learning and Artificial Vision techniques.
+* 💡 I am working on research papers.
+* 📚 I am currently working on my thesis, analyzing kinematic data and HD-sEMG signals.
+* 🤝 I am open to collaborating on projects in machine learning, computer vision, and robotics.
+* 🧠 I would like to learn more about motion classification using CSI
 
 ### Skills
 
