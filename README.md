@@ -6,7 +6,6 @@ I’m a senior year student at the Technological University of Panama.
 
 * ✉️  You can contact me at [davidrodfer0324@gmail.com](mailto:davidrodfer0324@gmail.com)
 * 💡 I am working on research papers.
-* 📚 I am currently working on my thesis, analyzing kinematic data and HD-sEMG signals.
 * 🤝 I am open to collaborating on projects in machine learning, computer vision, and robotics.
 * 🧠 I would like to learn more about motion classification using CSI
 
